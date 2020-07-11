@@ -1,0 +1,25 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "col_ledges Resources",
+    "description": "Quality-of-life-improvements for the col_ledges server",
+    "uuid": "52273d1c-8ccb-461d-ba58-e8904955cd2d",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Resources for col_ledges",
+      "type": "resources",
+      "uuid": "0db2e5b5-717a-4cd7-a004-8b3fd422fa8d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

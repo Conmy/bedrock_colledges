@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "col_ledges Behaviors",
+    "description": "Hello for the col_ledges server",
+    "uuid": "1680f001-b98d-4f87-a48d-b0ec939768d7",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "behaviours for col_ledges",
+      "type": "client_data",
+      "uuid": "ce58f684-f46d-4a4e-bdb1-b9ca19ae05b6",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "52273d1c-8ccb-461d-ba58-e8904955cd2d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

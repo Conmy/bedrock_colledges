@@ -1,0 +1,27 @@
+{
+    "format_version": "1.10.0",
+    "animation_controllers": {
+        "controller.animation.sleep_time_reset": {
+            "initial_state": "default",
+            "states": {
+                "default": {
+                    "transitions": [
+                        {
+                            "cmdstate": "query.is_sleeping"
+                        }
+                    ]
+                },
+                "cmdstate": {
+                    "transitions": [
+                        {
+                            "default": "!query.is_sleeping"
+                        }
+                    ],
+                    "on_entry": [
+                        "/time set 0"
+                    ]
+                }
+            }
+        }
+    }
+}
