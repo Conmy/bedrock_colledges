@@ -5,6 +5,13 @@ Minecraft Bedrock add-on for the col-ledges server
 
 ## Dev Notes
 
+The best sources of information to help develop add-ons are the following:
+
+- [Bedrock DEV](https://bedrock.dev/)
+- [Bedrock DEV - Discord](https://discord.com/invite/wAtvNQN)
+- [Minecraft Gamepedia Wiki](https://minecraft.gamepedia.com/Bedrock_Edition_add-on_documentation)
+
+
 ### Pre-requisites
  
 > I have set this repo up as a node project using some tools that I found that will let me write typescript scripts
